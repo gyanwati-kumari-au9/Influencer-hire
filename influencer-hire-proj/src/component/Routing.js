@@ -1,6 +1,7 @@
 import React from 'react';
 import {BrowserRouter, Route} from 'react-router-dom';
 // import Home from '../container/Home'
+import InfluencerDashboard from './influencer/update';
 import Header from './header';
 import Footer from './footer';
 
@@ -15,6 +16,7 @@ const Routing = () => {
                     
                 </div>
             </div>
+            <InfluencerDashboard />
             <Footer/>
         </BrowserRouter>
     )
