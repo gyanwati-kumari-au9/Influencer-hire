@@ -1,0 +1,43 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "ABC Company",
+      "description": "Reputed Digital Marketing firm..",
+      "image": "https://skjdf.ds/asdf.png"
+    }
+  ],
+  "influencers": [
+    {
+      "id": 1,
+      "name": "Influence A",
+      "image": "https://i.ibb.co/fHyT9gm/logo.png",
+      "description": "",
+      "youtube_link": "",
+      "youtube_followers": "",
+      "insta_link": "",
+      "insta_followers": ""
+    },
+    {
+      "id": 2,
+      "name": "Influence B",
+      "image": "https://i.ibb.co/fHyT9gm/logo.png",
+      "description": "",
+      "youtube_link": "",
+      "youtube_followers": "",
+      "insta_link": "",
+      "insta_followers": ""
+    },
+    {
+      "id": 3,
+      "name": "Influence C",
+      "image": "https://i.ibb.co/fHyT9gm/logo.png",
+      "description": "",
+      "youtube_link": "",
+      "youtube_followers": "",
+      "insta_link": "",
+      "insta_followers": ""
+    }
+  ],
+  "orders": []
+}

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return(
-        <footer>
+        <footer style={{marginTop:"5rem"}}>
             <div>
                <hr/>
                <center>

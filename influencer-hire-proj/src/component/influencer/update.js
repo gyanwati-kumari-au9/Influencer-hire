@@ -1,6 +1,7 @@
 import React from 'react';
 import { Component } from 'react';
 import Form from 'react-bootstrap/Form';
+import Button from 'react-bootstrap/Button';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Tabs from 'react-bootstrap/Tabs';
@@ -61,6 +62,9 @@ class updateForm extends Component{
                         <Form.Control type="text" placeholder="follower" />
                         </Col>
                     </Form.Group>
+                    <Button variant="success" type="submit" style={{float:"right"}}>
+                        Update
+                    </Button>
                 </Form>
             </div>
 
